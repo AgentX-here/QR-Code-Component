@@ -52,6 +52,6 @@ Umm ... I think I did everything by myself :D
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - I still dont't have one :)
 - Frontend Mentor - [@AgentX-here](https://www.frontendmentor.io/profile/AgentX-here)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Discord - JustAIyed#0762
